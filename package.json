@@ -1,5 +1,5 @@
 {
-  "name": "generator-generator",
+  "name": "generator-component-generator",
   "version": "4.0.2",
   "description": "Generate a Yeoman generator",
   "author": "Yeoman team",
